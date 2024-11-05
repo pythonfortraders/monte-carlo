@@ -1,4 +1,4 @@
-# [Introduction to Monte Carlo Simulations](https://youtu.be/VhNtzSVPCIc?feature=shared)
+# [Intro to Monte Carlo Simulations](https://youtu.be/VhNtzSVPCIc?feature=shared)
 
 This is the companion repository for [this video](https://youtu.be/VhNtzSVPCIc?feature=shared). 
 
